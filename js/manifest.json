@@ -1,0 +1,7 @@
+{
+    "name":"TA-TE-TI",
+    "__comentario": "name es el nombre del splash de la app, y asi se puede hacer comentarios.",
+    "short_name":"tateti",
+    "__comentario1": "asi es el nombre que figura abajo del icono.",
+    "start_url":"index.html"
+}
