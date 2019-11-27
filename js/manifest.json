@@ -3,5 +3,12 @@
     "__comentario": "name es el nombre del splash de la app, y asi se puede hacer comentarios.",
     "short_name":"tateti",
     "__comentario1": "asi es el nombre que figura abajo del icono.",
-    "start_url":"index.html"
+    "start_url":"index.html",
+    "__comentario2":"define la pagina con la que va a iniciar mi ap",
+    "display":"standalone",
+    "__comentario3":"esto sirve para que mi pagina, STANDALONE es para mostrar sin la barra de navegacion",
+    "orientation":"portrait-primary",
+    "__comentario4":"esto define que mi pagina se abre por defecto en modo retrato, (vertical)",
+    "theme_color":"rgba(255,255,255,2)",
+    "background_color":"rgba(255,255,255,2)"
 }
