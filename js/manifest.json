@@ -10,5 +10,17 @@
     "orientation":"portrait",
     "__comentario4":"esto define que mi pagina se abre por defecto en modo retrato, (vertical)",
     "theme_color":"rgba(255,255,255,0.2)",
-    "background_color":"rgba(255,255,255,0.2)"
+    "background_color":"rgba(255,255,255,0.2)",
+    "icoons":[
+                {
+                    "src":"img/ico96x96.png",
+                    "type":"image/png",
+                    "size":"96x96"
+                },
+                {
+                    "src":"img/ico114x114.png",
+                    "type":"image/png",
+                    "size":"144x144"
+                },
+             ]
 }
