@@ -9,6 +9,6 @@
     "__comentario3":"esto sirve para que mi pagina, STANDALONE es para mostrar sin la barra de navegacion",
     "orientation":"portrait",
     "__comentario4":"esto define que mi pagina se abre por defecto en modo retrato, (vertical)",
-    "theme_color":"rgba(255,255,255,2)",
-    "background_color":"rgba(255,255,255,2)"
+    "theme_color":"rgba(255,255,255,0.2)",
+    "background_color":"rgba(255,255,255,0.2)"
 }
