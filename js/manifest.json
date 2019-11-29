@@ -15,17 +15,17 @@
                 {
                     "src":"img/icono92.png",
                     "type":"image/png",
-                    "size":"192x192"
+                    "sizes":"192x192"
                 },
                 {
                     "src":"img/icono192.png",
                     "type":"image/png",
-                    "size":"92x92"
+                    "sizes":"92x92"
                 },
                 {
                     "src":"img/icono144.png",
                     "type":"image/png",
-                    "size":"144x144"
+                    "sizes":"144x144"
                 }
                 
              ]
