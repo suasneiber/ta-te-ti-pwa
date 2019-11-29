@@ -31,6 +31,11 @@
                     "src":"img/icono32.png",
                     "type":"image/png",
                     "sizes":"32x32"
+                },
+                {
+                    "src":"img/icono512.png",
+                    "type":"image/png",
+                    "sizes":"512x512"
                 }
                 
              ]
