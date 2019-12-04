@@ -9,7 +9,6 @@ self.addEventListener("activate", evt=>{
 
 ///eventos fetch (fetch request o pedido de busqueda).
 self.addEventListener("fetch",evt=>{
-    console.log{
-        ("Se atrapo el evento: ",evt);
-    }
+    console.log("Se atrapo el evento: ",evt);
+    
 });
