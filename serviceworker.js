@@ -1,6 +1,16 @@
+const NombreCache="sitio-Cache";
+const elementos=["/","/index.html","/css/css.css","/js/accio.js"];
 ///Instalar el serviceWorker
 self.addEventListener("install",evt =>{
-    console.log("el service Worker se Instaló");
+    ///console.log("el service Worker se Instaló");
+
+    evt.waitUntil(
+        caches.open(NombreCache).then((cache)=>{
+            console.log("definimos el cache Predeterminado");
+            cache.addAll(elementos);
+        }
+        )
+    )
 });
 
 ///activar ek service worker
