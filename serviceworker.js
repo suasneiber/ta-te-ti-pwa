@@ -1,4 +1,4 @@
-const NombreCache="sitio-Cache";
+const NombreCache="sitio-cache";
 const elementos=["/","/index.html","/css/css.css","/js/accio.js"];
 ///Instalar el serviceWorker
 self.addEventListener("install",evt =>{
